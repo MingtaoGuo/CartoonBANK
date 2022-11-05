@@ -45,7 +45,7 @@ python inference.py --img_path examples/zjl.png --cartoon_model saved_models/sty
 |![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_style3.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_style3.jpg)|
 |![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_style3.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_style3.jpg)|
 
-- **Cartoon Style 4** [「Pretrained model」]()
+- **Cartoon Style 4 'Mona Lisa'** [「Pretrained model」]()
 
 |![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_style4.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_style4.jpg)|
 |-|-|-|-|
@@ -57,4 +57,4 @@ Mingtao Guo
 E-mail: gmt798714378 at hotmail dot com
 
 
-
+### To be continue. We will update fresh cartoon model every friday night in Chinese time :-), Or if you'd like a custom cartoon model, upload or send the cartoon image to us.
