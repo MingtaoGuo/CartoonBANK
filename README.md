@@ -1,2 +1,60 @@
 # CartoonBANK
-We are committed to building an cartoon community using deep generative models
+We are committed to building an cartoon community using deep generative models.
+
+## Getting Started
+### Prerequisites
+- Linux or macOS
+- NVIDIA GPU + CUDA CuDNN
+- Python 3
+
+### Installation
+- Clone the repository:
+``` 
+git clone https://github.com/MingtaoGuo/CartoonBANK.git
+cd CartoonBANK
+```
+### Dependencies:  
+- scikit-image
+- torch
+- opencv-python
+- numpy
+
+### Inference
+``` 
+python inference.py --img_path examples/zjl.png --cartoon_model saved_models/style1.pth  --save_path result.jpg
+```
+## Cartoon BANK 
+- **Cartoon Style 1** [「Pretrained model」]()
+
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_style1.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_style1.jpg)|
+|-|-|-|-|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_style1.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_style1.jpg)|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_style1.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_style1.jpg)|
+
+- **Cartoon Style 2** [「Pretrained model」]()
+
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_style2.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_style2.jpg)|
+|-|-|-|-|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_style2.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_style2.jpg)|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_style2.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_style2.jpg)|
+
+- **Cartoon Style 3** [「Pretrained model」]()
+
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_style3.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_style3.jpg)|
+|-|-|-|-|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_style3.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_style3.jpg)|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_style3.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_style3.jpg)|
+
+- **Cartoon Style 4** [「Pretrained model」]()
+
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_style4.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_style4.jpg)|
+|-|-|-|-|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_style4.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_style4.jpg)|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_style4.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_style4.jpg)|
+
+## Author 
+Mingtao Guo
+E-mail: gmt798714378 at hotmail dot com
+
+
+
