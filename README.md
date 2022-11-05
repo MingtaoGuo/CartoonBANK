@@ -58,4 +58,4 @@ E-mail: gmt798714378 at hotmail dot com
 
 
 ## To be continue. 
-We will update fresh cartoon model every friday night in Chinese time :-), Or if you'd like a custom cartoon model, upload or send the cartoon image to us. Please enjoy it.
+We will update fresh cartoon model every friday night in Chinese time, Or if you'd like a custom cartoon model, upload or send the cartoon image to us. Please enjoy it :-).
