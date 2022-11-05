@@ -14,12 +14,14 @@ git clone https://github.com/MingtaoGuo/CartoonBANK.git
 cd CartoonBANK
 ```
 ### Dependencies:  
-- scikit-image
-- torch
-- opencv-python
-- numpy
+- scikit-image=0.18.3
+- torch=1.12.1
+- opencv-python=4.5.3.56
+- opencv-python-headless=4.5.3.56
+- numpy=1.20.3
 
 ### Inference
+- Download the face detection model [「yolov5s-face.onnx」](https://drive.google.com/file/d/1gcXDs4BBIOTc7RrlGrnSrJHn0wcuW_0z/view?usp=share_link), put the **yolov5s-face.onnx** into the folder **saved_models**
 ``` 
 python inference.py --img_path examples/zjl.png --cartoon_model saved_models/style1.pth  --save_path result.jpg
 ```
