@@ -54,6 +54,13 @@ python inference.py --img_path examples/zjl.png --cartoon_model saved_models/sty
 |![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_style4.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_style4.jpg)|
 |![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_style4.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_style4.jpg)|
 
+- **Cartoon Style 5** [「Pretrained model」](https://drive.google.com/file/d/18Lso6NX9j9cmTLPJjvkoFPn_lkAcWsH4/view?usp=share_link)
+
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/zjl_style5.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/xlb_style5.jpg)|
+|-|-|-|-|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/sm_style5.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/ngls_style5.jpg)|
+|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/lyf_style5.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_align.jpg)|![](https://github.com/MingtaoGuo/CartoonBANK/blob/main/IMGS/mm_style5.jpg)|
+
 ## Author 
 Mingtao Guo
 E-mail: gmt798714378 at hotmail dot com
